@@ -1,1 +1,11 @@
+# Helm Charts
 
+This folder contains Helm charts used to package and deploy microservices on Amazon EKS.
+
+## Contents
+- Application Helm charts
+- Values files for environment-specific configurations
+- Templates for Kubernetes manifests
+
+## Purpose
+Helm simplifies application deployment and management by providing reusable charts and version control for Kubernetes workloads.
