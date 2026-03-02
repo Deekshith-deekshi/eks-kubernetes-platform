@@ -1,1 +1,11 @@
+# Monitoring Stack
 
+This folder contains configurations for monitoring the EKS cluster and workloads.
+
+## Contents
+- Prometheus configuration for metrics collection
+- Grafana dashboards for visualization
+- Alertmanager rules for proactive monitoring
+
+## Purpose
+Ensures observability of the Kubernetes platform, enabling performance tracking, alerting, and troubleshooting.
